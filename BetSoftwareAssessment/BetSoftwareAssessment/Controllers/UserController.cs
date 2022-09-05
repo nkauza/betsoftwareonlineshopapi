@@ -62,7 +62,7 @@ namespace BetSoftwareAssessment.Controllers
             }
         }
 
-        [BasicAuthorization]
+        
         [HttpPost("~/api/SignUp")]
         public async Task<IActionResult> SignUp([FromBody] UserRequest model)
         {

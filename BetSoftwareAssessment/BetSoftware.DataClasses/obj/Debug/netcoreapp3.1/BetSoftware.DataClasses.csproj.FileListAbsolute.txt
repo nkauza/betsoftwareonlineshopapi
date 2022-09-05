@@ -1,0 +1,9 @@
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.deps.json
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\obj\Debug\netcoreapp3.1\BetSoftware.DataClasses.csprojAssemblyReference.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\obj\Debug\netcoreapp3.1\BetSoftware.DataClasses.AssemblyInfoInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\obj\Debug\netcoreapp3.1\BetSoftware.DataClasses.AssemblyInfo.cs
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\obj\Debug\netcoreapp3.1\BetSoftware.DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\obj\Debug\netcoreapp3.1\BetSoftware.DataClasses.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.DataClasses\obj\Debug\netcoreapp3.1\BetSoftware.DataClasses.pdb

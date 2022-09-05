@@ -1,0 +1,14 @@
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.Helpers.deps.json
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.Helpers.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.Helpers.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.Repository.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\bin\Debug\netcoreapp3.1\BetSoftware.Repository.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.csprojAssemblyReference.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.AssemblyInfoInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.AssemblyInfo.cs
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.csproj.CopyComplete
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Helpers\obj\Debug\netcoreapp3.1\BetSoftware.Helpers.pdb

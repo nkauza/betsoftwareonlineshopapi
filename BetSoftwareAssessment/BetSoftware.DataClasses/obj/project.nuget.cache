@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oFDPpMG3krbkBU4qPuc7R3Paiz9dedA+fxCY917SC6zid9t4lgLyiTptd6BBt4SbxPRu52U5hibko9Q3CLj2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nkauza\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

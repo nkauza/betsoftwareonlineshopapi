@@ -1,0 +1,9 @@
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\bin\Debug\netcoreapp3.1\BetSoftware.Repository.deps.json
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\bin\Debug\netcoreapp3.1\BetSoftware.Repository.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\bin\Debug\netcoreapp3.1\BetSoftware.Repository.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\obj\Debug\netcoreapp3.1\BetSoftware.Repository.csprojAssemblyReference.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\obj\Debug\netcoreapp3.1\BetSoftware.Repository.AssemblyInfoInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\obj\Debug\netcoreapp3.1\BetSoftware.Repository.AssemblyInfo.cs
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\obj\Debug\netcoreapp3.1\BetSoftware.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\obj\Debug\netcoreapp3.1\BetSoftware.Repository.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Repository\obj\Debug\netcoreapp3.1\BetSoftware.Repository.pdb

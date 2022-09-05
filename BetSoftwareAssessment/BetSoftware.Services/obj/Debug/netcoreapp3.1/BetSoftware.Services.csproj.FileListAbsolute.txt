@@ -1,0 +1,16 @@
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Services.deps.json
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Services.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Services.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Helpers.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Repository.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.DataClasses.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Helpers.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\bin\Debug\netcoreapp3.1\BetSoftware.Repository.pdb
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.csprojAssemblyReference.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.AssemblyInfoInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.AssemblyInfo.cs
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.csproj.CopyComplete
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.dll
+C:\Users\Nkauza\Documents\Job Applications\Assessments\BetSoftwareAssessment\BetSoftware.Services\obj\Debug\netcoreapp3.1\BetSoftware.Services.pdb

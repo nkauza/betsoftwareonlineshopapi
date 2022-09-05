@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Services\\BetSoftware.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj",
+        "projectName": "BetSoftware.DataClasses",
+        "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj",
+        "packagesPath": "C:\\Users\\Nkauza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nkauza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Helpers\\BetSoftware.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Helpers\\BetSoftware.Helpers.csproj",
+        "projectName": "BetSoftware.Helpers",
+        "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Helpers\\BetSoftware.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Nkauza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nkauza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj": {
+                "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj"
+              },
+              "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj": {
+                "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj",
+        "projectName": "BetSoftware.Repository",
+        "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj",
+        "packagesPath": "C:\\Users\\Nkauza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nkauza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "LuciaTech.Helper": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Services\\BetSoftware.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Services\\BetSoftware.Services.csproj",
+        "projectName": "BetSoftware.Services",
+        "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Services\\BetSoftware.Services.csproj",
+        "packagesPath": "C:\\Users\\Nkauza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nkauza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj": {
+                "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.DataClasses\\BetSoftware.DataClasses.csproj"
+              },
+              "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Helpers\\BetSoftware.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Helpers\\BetSoftware.Helpers.csproj"
+              },
+              "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj": {
+                "projectPath": "C:\\Users\\Nkauza\\Documents\\Job Applications\\Assessments\\BetSoftwareAssessment\\BetSoftware.Repository\\BetSoftware.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

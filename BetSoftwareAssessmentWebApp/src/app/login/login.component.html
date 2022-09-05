@@ -1,0 +1,48 @@
+<section class="py-5">
+  <header class="bg-dark py-5">
+    <div class="container px-4 px-lg-5 my-5">
+      <div class="text-center text-white">
+        <h1 class="display-4 fw-bolder">Sign in</h1>
+      </div>
+    </div>
+  </header>
+  <div class="container px-4 px-lg-5 mt-5">
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+      <form [formGroup]="signInForm">
+        <div class="mb-3">
+          <label for="userEmail" class="form-label">Email address</label>
+          <input type="email" formControlName="userEmail" class="form-control" id="userEmail" placeholder="example@gmail.com" name="userEmail" aria-describedby="emailHelp"
+                 required [(ngModel)]="userModel.userEmail"
+                 [class.is-invalid]="signInForm.get('userEmail')?.invalid && signInForm.get('userEmail')?.touched" />
+
+
+          <div style="color:red" *ngIf="(signInForm.get('userEmail')?.invalid)&& signInForm.get('userEmail')?.touched">
+            Valid email addres required.
+          </div>
+
+        </div>
+        <div class="mb-3">
+          <label for="userPassword" class="form-label">Password</label>
+          <input type="password" formControlName="userPassword" placeholder="Password" class="form-control" id="userPassword" name="userPassword"
+                 required [(ngModel)]="userModel.userPassword"
+                 [class.is-invalid]="signInForm.get('userPassword')?.invalid && signInForm.get('userPassword')?.touched" />
+
+          <div style="color:red" *ngIf="signInForm.get('userPassword')?.invalid && signInForm.get('userPassword')?.touched">
+            Password is required.
+          </div>
+
+        </div>
+
+        <button [disabled]="signInForm.invalid" type="button" (click)="signIn()" class="btn btn-primary">Sign in</button>
+
+        <div class="mb-3">
+          <div id="pwdHelp" class="form-text">
+            Not a member? <a href="javascript:void(0)" (click)="goToRegister()">Sign up</a>
+          </div>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</section>

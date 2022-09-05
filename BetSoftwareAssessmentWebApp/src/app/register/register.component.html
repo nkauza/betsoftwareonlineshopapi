@@ -1,0 +1,59 @@
+<section class="py-5">
+  <header class="bg-dark py-5">
+    <div class="container px-4 px-lg-5 my-5">
+      <div class="text-center text-white">
+        <h1 class="display-4 fw-bolder">Sign up</h1>
+      </div>
+    </div>
+  </header>
+  <div class="container px-4 px-lg-5 mt-5">
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+      <form [formGroup]="signUpForm">
+        <div class="mb-3">
+          <label for="userEmail" class="form-label">Email address</label>
+          <input type="email" formControlName="userEmail" class="form-control" id="userEmail" placeholder="example@gmail.com" name="userEmail" aria-describedby="emailHelp"
+                 required [(ngModel)]="userModel.userEmail"
+                 [class.is-invalid]="signUpForm.get('userEmail')?.invalid && signUpForm.get('userEmail')?.touched" />
+
+
+          <div style="color:red" *ngIf="(signUpForm.get('userEmail')?.invalid) && signUpForm.get('userEmail')?.touched">
+            Valid email address is required.
+          </div>
+
+        </div>
+        <div class="mb-3">
+          <label for="userPassword" class="form-label">Password</label>
+          <input type="password" formControlName="userPassword" placeholder="Password" class="form-control" id="userPassword" name="userPassword"
+                 required [(ngModel)]="userModel.userPassword"
+                 [class.is-invalid]="signUpForm.get('userPassword')?.invalid && signUpForm.get('userPassword')?.touched" />
+
+          <div style="color:red" *ngIf="signUpForm.get('userPassword')?.invalid && signUpForm.get('userPassword')?.touched">
+            Password is required and must be atleast six characters long.
+          </div>
+
+        </div>
+        <div class="mb-3">
+          <label for="confirmPassword" class="form-label">Confirm password</label>
+          <input type="password" formControlName="confirmPassword" placeholder="Confirm Password" class="form-control" id="confirmPassword" name="confirmPassword"
+                 required [(ngModel)]="confirmPwd"
+                 [class.is-invalid]="signUpForm.get('confirmPassword')?.invalid && signUpForm.get('confirmPassword')?.touched" />
+
+
+          <div style="color:red" *ngIf="passwordMatchError">
+            Password does not match
+          </div>
+
+        </div>
+
+        <button [disabled]="signUpForm.invalid" type="button" (click)="signUp()" class="btn btn-primary">Sign up</button>
+
+        <div class="mb-3">
+          <div id="pwdHelp" class="form-text">
+            Already a member? <a href="javascript:void(0)" (click)="goToLogin()">Sign in</a>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
